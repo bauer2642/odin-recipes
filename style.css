@@ -1,0 +1,41 @@
+
+h1 {
+    color: black; 
+    font-style: italic;
+    font-size: 80px;
+    background-color: wheat;
+    text-align: center;
+} 
+
+h2 { 
+    font-size: 35px;
+}
+
+a { 
+    color: black;
+}
+p { 
+    font-size: 20px;
+}
+
+h3 {
+    font-size: 60px;
+    text-align: center;
+}
+
+
+li {
+    color: black;
+    font-size: 40px;
+}
+
+body { 
+    background-color: wheat;
+} 
+
+img {
+    height: auto;
+    width: 500px; 
+    margin-left: 700px;
+} 
+
